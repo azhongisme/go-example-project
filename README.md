@@ -1,2 +1,2 @@
 # go-example-project
-aaaa
+go 小项目
